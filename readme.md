@@ -8,7 +8,7 @@ Since this isn't on the Chrome Web Store, you'll need to load it manually — it
 2. Go to `chrome://extensions` in your browser
 3. Enable **Developer mode** using the toggle in the top right
 4. Click **Load unpacked**
-5. Select the `ez-uuid` folder inside the unzipped download
+5. Select the `Ro-ID` folder inside the unzipped download
 6. Done — the extension is now active on Roblox
 
 > You may see a "Developer mode extensions" warning when you open Chrome. This is normal for any extension not on the Web Store — just dismiss it.
